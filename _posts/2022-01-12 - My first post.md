@@ -1,6 +1,6 @@
 ---
 title: "Post: My first post"
-date: 2022-01-12T11:26:02-05:00
+date:
 categories:
   - Blog
 tags:
