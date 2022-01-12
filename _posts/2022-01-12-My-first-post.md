@@ -1,6 +1,5 @@
 ---
 title: "Post: My first post"
-date:
 categories:
   - Blog
 tags:
