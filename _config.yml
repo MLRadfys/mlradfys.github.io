@@ -60,8 +60,8 @@ plugins:
 author:
   name   : "MLemp"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "M.Sc.E.E with a major in Robotics and Automation. Iam currently working as a Biomedical Engineer and as a PhD. 
-            student in machine learning with a research focus on AI in radiation therapy (RT)."
+  bio    : "M.Sc.E.E with a major in Robotics and Automation. Biomedical Engineer and PhD. 
+            student in machine learning with a research focus on machine learning in radiation therapy (RT)."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -100,6 +100,7 @@ defaults:
       comments: true
       share: true
       related: true
+      mathjax : true
   # _pages
   - scope:
       path: "_pages"
