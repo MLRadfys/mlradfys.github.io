@@ -178,7 +178,7 @@ $$L_{i} = L_{cls}^{i} +\lambda_{1}L_{con}^{i} + \lambda_{2}L_{sta}^{i}$$
 
 The total loss is determined for both models independently and the model weights for both students are updated using backpropagation. 
 
-## 3. References
+# 3. References
 [1]Antti Rasmus, Harri Valpola, Mikko Honkala, Mathias Berglund, and Tapani Raiko. 2015. Semi-supervised learning with Ladder networks. In Proceedings of the 28th International Conference on Neural Information Processing Systems - Volume 2 (NIPS'15). MIT Press, Cambridge, MA, USA, 3546–3554.
 [2] Laine, S. & Aila, T. (2017). Temporal Ensembling for Semi-Supervised Learning.. ICLR (Poster), : OpenReview.net.  <br />
 [3] Tarvainen, A. & Valpola, H. (2017). Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results.. In I. Guyon, U. von Luxburg, S. Bengio, H. M. Wallach, R. Fergus, S. V. N. Vishwanathan & R. Garnett (eds.), NIPS (p./pp. 1195-1204).  <br />
