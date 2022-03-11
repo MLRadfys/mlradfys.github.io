@@ -1,5 +1,5 @@
 ---
-title: "Post: Machine learning: KNN for classification"
+title: "Post: KNN for classification"
 categories:
   - Blog
 tags:
@@ -192,7 +192,7 @@ def accuracy_metric(self, gt_label, predicted):
 
 
 **Note:** Usually you would like to train the model using k-fold cross-validation, resulting in K different models. Once this is done, you could make a prediction with all K models and average the model outputs to receive a final prediction. The final model can then be used to make predictions on an independent test dataset.
-
+Machine-learning-K-Mean-and-
 Lets put everything together in a Python class. <br />
 
 ```python
